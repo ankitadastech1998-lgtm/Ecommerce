@@ -1,0 +1,7 @@
+{
+  "name": "NovaMarket AI E-Commerce",
+  "description": "A premium AI-powered e-commerce platform with smart search, geolocation-based address management, and seamless payment integration.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
